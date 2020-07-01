@@ -18,7 +18,7 @@ conf = dict(
     keywords='autoversion __autoversion__ __version__ __version__tuple__ version git',
     author='Peter Waller',
     author_email='p@pwaller.net',
-    url='http://github.com/pwaller/__autoversion__',
+    url='https://github.com/sensiblecodeio/__autoversion__',
     py_modules=["__autoversion__"],
 )
 
